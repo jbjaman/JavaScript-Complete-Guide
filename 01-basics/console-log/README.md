@@ -1,0 +1,6 @@
+- console.log() হলো JavaScript-এর একটা built-in function, যেটা কোনো value console-এ দেখানোর জন্য ব্যবহার করি।
+- variable inspect করা
+- function-এর output দেখা
+- কোনো flow পর্যন্ত code পৌঁছেছে কিনা দেখা
+- unexpected value খুঁজে বের করা
+- debugging করা
