@@ -1,0 +1,8 @@
+- Template literal লিখতে backtick ব্যবহার করি
+- Template literal-এর ভিতরে JavaScript expression বসানোর জন্য: ${expression}
+- Template literal-এর একটা বড় সুবিধা এখানে সরাসরি multiple lines লেখা যায়। এটা \n দিয়ে করা থেকেও readable হতে পারে।
+- এটা useful যখন: dynamic text তৈরি করতে হবে
+- এটা useful যখন: multiple variables combine করতে হবে
+- এটা useful যখন: readable message তৈরি করতে হবে
+- এটা useful যখন: multiline text দরকার
+- এটা useful যখন: generated output দরকার
