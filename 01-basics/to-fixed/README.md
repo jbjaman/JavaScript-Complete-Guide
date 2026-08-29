@@ -1,0 +1,3 @@
+- এটা Number-এর একটা method।
+- toFixed() string return করে।
+- number.toFixed(digits)

@@ -1,0 +1,3 @@
+- String-এর সব alphabet uppercase করার জন্য
+- এটা original string পরিবর্তন করে না। কারণ string immutable।
+- Authentication/authorization system-এ role comparison-এর মতো জায়গায় normalization লাগতে পারে।

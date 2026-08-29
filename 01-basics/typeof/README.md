@@ -1,0 +1,3 @@
+- এটা কোনো value-এর runtime type জানতে ব্যবহার করি।
+- এটা real-world debugging এবং input handling-এর জন্য গুরুত্বপূর্ণ।
+- typeof null JavaScript-এর famous behavior.
