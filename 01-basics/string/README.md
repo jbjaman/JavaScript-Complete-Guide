@@ -1,0 +1,4 @@
+- String হলো text data।
+- Database থেকে আসা data, API response, form input, error message, UI text—সব জায়গাতেই string ব্যাপকভাবে ব্যবহৃত হয়।
+- String immutable. মানে string-এর ভিতরের character সরাসরি পরিবর্তন করা যায় না।
+- Literal মানে মোটামুটি Code-এর মধ্যে সরাসরি লেখা একটা value।
