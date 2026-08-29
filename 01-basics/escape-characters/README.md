@@ -1,0 +1,1 @@
+- String-এর ভিতরে কিছু special character সরাসরি লিখতে সমস্যা হতে পারে। সেগুলো represent করার জন্য escape sequence ব্যবহার করি।
