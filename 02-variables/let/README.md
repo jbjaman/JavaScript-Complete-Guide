@@ -1,0 +1,1 @@
+- যে variable-এর value পরে reassign হবে

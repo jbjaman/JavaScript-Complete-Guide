@@ -1,0 +1,5 @@
+- Variable: কোনো value-কে একটি নাম দিয়ে program-এর মধ্যে ধরে রাখা।
+- const দিয়ে declare করা binding-কে পরে অন্য value-তে reassign করা যায় না।
+- rule: Default হিসেবে const ব্যবহার কর. যদি variable-এর binding পরিবর্তন করার দরকার হয়, তখন let।
+- const মানেই immutable না . object/array-এর ভেতরের data immutable
+- যে value change হবে না → const।
