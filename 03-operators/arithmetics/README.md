@@ -1,0 +1,1 @@
+- Operator হলো value-এর ওপর কোনো operation করার

@@ -1,0 +1,1 @@
+- Ternary হলো ছোট conditional expression।

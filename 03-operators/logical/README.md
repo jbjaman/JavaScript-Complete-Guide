@@ -1,0 +1,2 @@
+- &&: Authentication/authorization-এর মতো logic-এ এটা খুব common
+- ||: যেকোনো একটা true হলেই true।

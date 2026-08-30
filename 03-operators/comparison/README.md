@@ -1,0 +1,2 @@
+- Comparison-এর result সাধারণত boolean
+- value এবং type দুটোই match করতে হবে। Production code-এ সাধারণত === prefer করবে।
