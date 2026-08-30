@@ -1,0 +1,2 @@
+- JavaScript condition-এর মধ্যে value-কে boolean context-এ evaluate করে। false, 0, -0, 0n, "", null,undefined, NaN
+- এই দুটো truthy: [], {}

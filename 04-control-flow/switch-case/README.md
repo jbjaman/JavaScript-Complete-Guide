@@ -1,0 +1,1 @@
+- যখন একটি value-এর অনেক known possibility. Real backend/application status handling-এ এই ধরনের structure দেখতে পাবে। break না দিলে পরের case-গুলোও execute হতে পারে।

@@ -1,0 +1,2 @@
+- break : Loop পুরোপুরি বন্ধ করে।
+- current : Current iteration বাদ দিয়ে next iteration.
