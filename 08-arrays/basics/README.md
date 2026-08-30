@@ -1,0 +1,1 @@
+- Array হলো: একাধিক ordered value একসাথে রাখার data structure।

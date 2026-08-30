@@ -1,0 +1,3 @@
+- slice() : Array-এর একটা অংশ বের করে নতুন array দেয়। but array unchanged
+- splice() : Array-এর মধ্যে remove/insert/replace করতে পারে।
+- array.splice(start, deleteCount, item1, item2, ...)

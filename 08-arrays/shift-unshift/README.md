@@ -1,0 +1,2 @@
+- unshift: শুরুতে item যোগ করে
+- shift: শুরু থেকে item remove করে

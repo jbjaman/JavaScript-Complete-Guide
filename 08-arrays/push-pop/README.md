@@ -1,0 +1,2 @@
+- push : Array-এর শেষে item যোগ করে। এটা original array mutate করে।
+- pop : শেষের item remove করে। এটাও mutate করে।
