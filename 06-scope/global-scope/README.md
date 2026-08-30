@@ -1,0 +1,1 @@
+- Scope: কোন variable কোথা থেকে access করা যাবে।

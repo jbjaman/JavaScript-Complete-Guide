@@ -1,0 +1,3 @@
+- function Scope এটা function-এর ভিতরে valid।
+- function-এর বাইরে invalid।
+- { } block: if, for, while ইত্যাদির {}-ও block তৈরি করে।

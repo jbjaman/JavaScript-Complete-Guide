@@ -1,0 +1,2 @@
+- Node.js CLI program-এ command-line থেকে input নেওয়া যায়।
+- Command-line arguments সাধারণত string হিসেবে আসে।

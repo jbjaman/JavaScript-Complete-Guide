@@ -1,0 +1,2 @@
+- একটা নির্দিষ্ট কাজকে reusable unit হিসেবে তৈরি করা।
+- একটা function-এর ideally একটা clear responsibility থাকা উচিত। বড় system-এ responsibilities আলাদা করা maintainability বাড়ায়।

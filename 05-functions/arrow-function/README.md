@@ -1,0 +1,1 @@
+- কখন arrow function: callbacks, array operations, short utility functions, React code,functional-style code
