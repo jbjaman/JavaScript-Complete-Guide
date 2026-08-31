@@ -1,0 +1,7 @@
+- for....of Array-এর value directly দেয়।
+- যদি শুধু প্রতিটা value দরকার হয়, for...of অনেক বেশি readable। এটা API response process করার মতো কাজের foundation।
+- for....in এটা object-এর enumerable property/key iterate করার জন্য ব্যবহৃত হয়। এখানে key হচ্ছে property name। শুধু key না, value-ও বের করতে পার
+- for: index/control, for...of: value, for...in: key/property
+- Array-এর জন্য for, for...of, এবং পরবর্তীতে forEach, map, filter ইত্যাদি বেশি appropriate।
+- for..of: যখন Iterable-এর প্রতিটি value নিয়ে কাজ করতে চাই।
+- for..in: যখন Object-এর property/key iterate করতে চাই।

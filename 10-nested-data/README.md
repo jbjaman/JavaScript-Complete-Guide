@@ -1,0 +1,4 @@
+- Nested arrays mathematical data বা grid-এর মতো structure represent করতে পারে।
+- Deep Nesting সবসময় ভালো design না. বারবার ব্যবহার করতে হলে code difficult to read হতে পারে। আর যদি মাঝখানের কোনো property undefined হয়, তখন runtime error হতে পারে।
+- Array-এর ভিতরে Object এটা অত্যন্ত গুরুত্বপূর্ণ। Real application-এ সবচেয়ে বেশি দেখতে পাওয়া
+- database-এর multiple records application-এ প্রায়ই array of objects হিসেবে কাজ করে।
