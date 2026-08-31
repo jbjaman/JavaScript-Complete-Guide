@@ -1,0 +1,5 @@
+- একটা object-এর ভিতরে আরেকটা object থাকলে nested object।
+- Object-এর property শুধু read করা যায় না, change-ও করা যায়।
+- নতুন Property যোগ করা যায়
+- Object-এর property হিসেবে function-ও রাখা যায়।
+- Array data-কে collection হিসেবে organize করে, আর Object data-এর প্রতিটি value-কে meaning/context দিয়ে organize করে।
