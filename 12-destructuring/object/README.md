@@ -1,0 +1,2 @@
+- Object Destructuring এখানে property name গুরুত্বপূর্ণ। Object-এর সব property নিতে হবে না. Destructuring object mutate করে না।s
+- name alias: Real project-এ দুইটা object-এ একই property name থাকতে পারে। একই scope-এ duplicate variable declaration সমস্যা তৈরি করবে।

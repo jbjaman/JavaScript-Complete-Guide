@@ -1,0 +1,3 @@
+- Array বা Object থেকে প্রয়োজনীয় value/property সহজে বের করে আলাদা variable-এ রাখার syntax হলো Destructuring।
+- Production code-এ বড় object বারবার লিখলে code unnecessarily repetitive হয়ে যায়। destructuring এর ফলে code cleaner, readable, concise, maintainable হয়।
+- array destructuring এখানে position/index গুরুত্বপূর্ণ। অর্থাৎ Array destructuring position-based।
