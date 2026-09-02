@@ -1,0 +1,12 @@
+- Module: একটি JavaScript file যখন নিজের functionality অন্য JavaScript file-এর সাথে share করতে পারে, তখন সেই file-কে Module হিসেবে ব্যবহার করা যায়।
+- export ব্যবহার করে আমরা একটি module-এর কোনো value/function অন্য module-এর জন্য available করি।
+- import ব্যবহার করে অন্য module থেকে exported value/function নিয়ে আসি।
+- সবচেয়ে গুরুত্বপূর্ণ export pattern হলো Named Export।
+- Named export-এর ক্ষেত্রে { } ব্যবহার করতে হয়
+- Default Export: একটি module-এর primary/default value বোঝাতে এটি ব্যবহার করা হয়।
+- Named export-এর নাম match করতে হয়
+- কিন্তু default export-এর ক্ষেত্রে import-এর নাম নিজের মতো দিতে পারো
+- Import Alias এটা useful যখন একই নামের দুইটা function থাকে।
+- একটি module-এ default এবং named export দুটোই থাকতে পারে।
+- একটি module-এর variables automatically অন্য module-এ accessible হয় না।
+- import \* as একটি module-এর সব named export একটি object-এর মধ্যে নিতে পারো।
