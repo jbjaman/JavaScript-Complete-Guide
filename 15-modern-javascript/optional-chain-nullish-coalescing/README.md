@@ -1,0 +1,7 @@
+- Optional chaining ব্যবহার করে এমন কোনো property/method safely access করা যায়, যেটা থাকতেও পারে, নাও থাকতে পারে। Real application-এ data সবসময় predictable হয় না। ?. দিয়ে Safe Access - Error না দিয়ে undefined return করবে।
+- শুধু property access না, method call-এর ক্ষেত্রেও ব্যবহার করা যায়।
+- Optional Chaining এটা সব error handle করে না।
+- Optional chaining মানে "যেকোনো ভুল magically ঠিক করে দাও" না। এটা মূলত null বা undefined-এর কারণে property access/call করার error এড়ানোর জন্য।
+- Nullish Coalescing ?? ব্যবহার করা হয় value null অথবা undefined হলে fallback value দেওয়ার জন্য।
+- || → falsy check, ?? → null/undefined check
+- ?. → safely access, ?? → fallback
