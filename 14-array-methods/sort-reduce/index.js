@@ -77,3 +77,13 @@ const products = [
 const activeProductNames = products
   .filter((product) => product.isActive)
   .map((product) => product.name);
+
+// Filter + Reduce
+
+const total = products
+  .filter((product) => {
+    product.isActive;
+  })
+  .reduce((sum, product) => {
+    return sum + product.price;
+  }, 0);
