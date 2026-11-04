@@ -1,0 +1,1 @@
+- { } এর ভিতরে let এবং const দিয়ে declare করা variable সেই block-এর মধ্যেই সীমাবদ্ধ থাকে।

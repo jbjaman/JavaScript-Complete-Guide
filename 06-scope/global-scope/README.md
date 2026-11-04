@@ -1,1 +1,1 @@
-- Scope: কোন variable কোথা থেকে access করা যাবে।
+- যে variable function বা block-এর বাইরে declare করা হয়, সেটি সাধারণত global scope-এ থাকে।

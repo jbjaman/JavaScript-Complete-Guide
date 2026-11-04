@@ -8,11 +8,14 @@ function createUser() {
 
 console.log(userId); // X invalid
 
-// 2. Block Scope
+// 2.
 
-if (true) {
-  const message = "Hello";
-  console.log(message);
+function test() {
+  var age = 25;
+
+  console.log(age); // 25
 }
 
-console.log(message); // X iinvalid
+test();
+
+console.log(age); // Error

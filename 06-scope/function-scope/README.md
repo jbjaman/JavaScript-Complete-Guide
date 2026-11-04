@@ -1,3 +1,4 @@
 - function Scope এটা function-এর ভিতরে valid।
 - function-এর বাইরে invalid।
 - { } block: if, for, while ইত্যাদির {}-ও block তৈরি করে।
+- যে variable function-এর ভিতরে declare করা হয়, সেটি সেই function-এর ভিতরেই access করা যায়।

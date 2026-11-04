@@ -22,3 +22,14 @@ const isAdmin = role2 === "admin";
 
 const users = [];
 users.push("Full-Stack");
+
+// 5.
+
+const user = {
+  name: "Rahim",
+  age: 20,
+};
+
+user.age = 25;
+
+console.log(user.age); // 25

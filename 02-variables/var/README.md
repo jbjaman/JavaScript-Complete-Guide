@@ -1,0 +1,2 @@
+- var হলো JavaScript-এর পুরোনো variable declaration system
+- একই variable আবার declare-ও করা যায়।

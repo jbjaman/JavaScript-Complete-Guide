@@ -1,0 +1,1 @@
+- Variable declaration-এর শুরু থেকে initialization হওয়ার আগ পর্যন্ত যে সময়টুকু variable access করা যায় না, সেটিই Temporal Dead Zone বা TDZ।

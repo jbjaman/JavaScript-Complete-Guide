@@ -16,3 +16,17 @@ loginAttempts++;
 let user = getUser();
 let role = user.role;
 let isAdmin = role === "admin";
+
+// 4.
+
+let age = 20;
+
+age = 25;
+
+console.log(age); // 25
+
+// 5.
+
+let age = 20;
+
+// let age = 25; // Error

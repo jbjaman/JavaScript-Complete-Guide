@@ -1,0 +1,1 @@
+- const hoist হয়, কিন্তু declaration-এর আগে access করা যায় না।

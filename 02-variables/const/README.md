@@ -3,3 +3,4 @@
 - rule: Default হিসেবে const ব্যবহার কর. যদি variable-এর binding পরিবর্তন করার দরকার হয়, তখন let।
 - const মানেই immutable না . object/array-এর ভেতরের data immutable
 - যে value change হবে না → const।
+- const দিয়ে Object বা Array declare করলে তার ভিতরের property বা element পরিবর্তন করা যায়। কিন্তু পুরো object-টি নতুন করে assign করা যাবে না।
