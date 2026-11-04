@@ -1,7 +1,7 @@
 - filter() ব্যবহার করো যখন: কিছু condition অনুযায়ী array থেকে কিছু element রাখতে চাই।
-- filter() → সব matching element-এর array দেয়।
+- filter() → সব matching element-এর array দেয়। Condition অনুযায়ী element বেছে নতুন Array return করে।
 
-- find() অনেকটা filter()-এর মতো condition check করে।
+- find() অনেকটা filter()-এর মতো condition check করে। Condition মিলে এমন প্রথম element return করে।
 - find() → প্রথম matching element দেয়।
 
 - includes() দিয়ে check করবে কোনো value array-এর মধ্যে আছে কি না। যদি শুধু জানতে চাও: আছে কি না? তাহলে includes() অনেক বেশি expressive।

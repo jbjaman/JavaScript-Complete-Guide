@@ -34,3 +34,5 @@ const updatedUser = {
 ```
 const { passwordHash, ...safeUser } = user;
 ```
+
+- Rest operator একাধিক value-কে একটি Array বা Object-এর মধ্যে collect করে।

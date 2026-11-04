@@ -5,4 +5,4 @@
 - forEach() array-এর প্রতিটি element-এর ওপর একটা function চালায়। forEach() সাধারণত কোনো নতুন array return করে না।
 - 3. forEach() ব্যবহার করব যখন: প্রতিটি element-এর জন্য side effect করতে চাই, কিন্তু নতুন array বানানোর দরকার নেই।
 
-- map (): প্রতিটি element transform করে একটি নতুন array তৈরি করে।
+- map (): প্রতিটি element transform করে একটি নতুন array তৈরি করে। প্রতিটি element-এর ওপর কাজ করে নতুন Array return করে।

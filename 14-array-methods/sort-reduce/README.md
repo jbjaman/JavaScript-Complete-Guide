@@ -1,7 +1,7 @@
 - sort() array-এর element order পরিবর্তন করে।
 - sort() Original Array Mutate করে
 
-- reduce() ব্যবহার করে: একটা array-এর অনেকগুলো value থেকে একটি final result তৈরি করা যায়।
+- reduce() ব্যবহার করে: একটা array-এর অনেকগুলো value থেকে একটি final result তৈরি করা যায়। Array-এর সব element process করে একটি single value তৈরি করে।
 
 ```
  array.reduce((accumulator, currentValue) => {

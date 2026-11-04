@@ -1,2 +1,3 @@
 - Spread: কোনো iterable/object-এর content ছড়িয়ে দেওয়া।
 - Spread নিজে remove করে না। কিন্তু নতুন data structure তৈরি করার সময় কাজে লাগে।
+- Spread operator Array বা Object-এর elements/properties ছড়িয়ে দেয়।
