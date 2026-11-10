@@ -1,2 +1,4 @@
 - var হলো JavaScript-এর পুরোনো variable declaration system
 - একই variable আবার declare-ও করা যায়।
+- var একই Scope-এ আবার Declare করা যায়।
+- এটি Function-scoped, Block-scoped নয়।

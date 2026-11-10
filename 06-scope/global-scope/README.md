@@ -1,1 +1,2 @@
 - যে variable function বা block-এর বাইরে declare করা হয়, সেটি সাধারণত global scope-এ থাকে।
+- Global Variable Function-এর ভিতরেও Access করা যায়।

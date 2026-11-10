@@ -1,3 +1,3 @@
 - যে variable-এর value পরে reassign হবে
 - let দিয়ে variable declare করলে তার value পরিবর্তন করা যায়
-- একই scope-এর মধ্যে আবার declare করা যায় না।
+- একই scope-এর মধ্যে আবার Redeclare করা যায় না। Syntax Error হবে।

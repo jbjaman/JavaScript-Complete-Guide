@@ -13,3 +13,16 @@ const greet = (name) => {
 // 3.
 
 const greet = (name) => "Hello " + name;
+
+// 4.
+
+const greet = () => {
+  console.log("Hello");
+};
+
+// 5.
+
+const createUser = () => ({
+  name: "Rahim",
+  age: 22,
+});

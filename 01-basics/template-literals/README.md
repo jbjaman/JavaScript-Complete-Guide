@@ -6,3 +6,6 @@
 - এটা useful যখন: readable message তৈরি করতে হবে
 - এটা useful যখন: multiline text দরকার
 - এটা useful যখন: generated output দরকার
+- Variable সহজে Insert করা যায়।
+- Multiple Lines লেখা যায়।
+- Expression ব্যবহার করা যায়।

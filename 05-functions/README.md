@@ -6,3 +6,5 @@
 - Traditional syntax --- Shorter syntax
 
 - Arrow Function তার surrounding lexical scope থেকে this গ্রহণ করে।
+
+- Arrow functions provide a shorter syntax for writing functions. Unlike regular functions, they do not have their own this value and inherit it from the surrounding lexical scope.

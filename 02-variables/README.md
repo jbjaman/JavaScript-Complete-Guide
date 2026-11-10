@@ -3,7 +3,7 @@
 Feature -- var -- let -- const
 Reassign -- Yes -- Yes -- No
 Redeclare -- Yes -- No -- No
-Function Scope -- Yes -- No -- No
+Function Scope -- Yes -- Yes -- Yes
 Block Scope -- No -- Yes -- Yes
 Hoisting -- Yes -- Yes -- Yes
 
@@ -13,3 +13,4 @@ Hoisting -- Yes -- Yes -- Yes
 - let এবং const block-scoped।
 - let ও const ব্যবহার করার আগে initialize করতে হয়।
 - Modern JavaScript-এ সাধারণত const ব্যবহার করব; value পরিবর্তন করতে হলে let ব্যবহার করব।
+- Var is function-scoped, while let and const are block-scoped. Let allows reassignment, but const does not allow reassignment. I generally use const by default and let when a variable needs to change.
