@@ -1,6 +1,8 @@
 ## Scope
 
-- Scope বলতে বোঝায় কোন জায়গা থেকে একটি variable access করা যাবে। JavaScript-এ প্রধানত তিন ধরনের scope রয়েছে:
+- Scope বলতে বোঝায় কোন জায়গা থেকে একটি variable access করা যাবে।
+
+> JavaScript-এ প্রধানত তিন ধরনের scope রয়েছে:
 
 1. Global Scope
 2. Function Scope
