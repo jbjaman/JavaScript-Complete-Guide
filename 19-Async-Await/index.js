@@ -25,3 +25,20 @@ async function getData() {
 }
 
 getData();
+
+// 2.
+
+async function getUsers() {
+  try {
+    const response = await fetch("https://jsonplaceholder.typicode.com/users");
+    if (!response.ok) {
+      throw new Error("Failed to fetch users");
+    }
+    const dataa = await response.json();
+    console.log(data);
+  } catch (error) {
+    console.error(error.message);
+  }
+}
+
+getUsers();

@@ -1,0 +1,1 @@
+- কোনো child element-এ event ঘটলে সেটি parent element-এর দিকেও propagate করতে পারে।
