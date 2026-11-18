@@ -1,0 +1,3 @@
+- Microtask Queue কী?
+- এটি Promise বোঝার জন্য অত্যন্ত গুরুত্বপূর্ণ।
+- Microtask Queue হলো একটি বিশেষ Queue যেখানে Promise-এর .then(), .catch(), .finally()-এর মতো Reaction Callback এবং queueMicrotask()-এর মতো Microtask Schedule হয়।

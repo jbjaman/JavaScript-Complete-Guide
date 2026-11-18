@@ -14,3 +14,11 @@
 > setTimeout callbacks
 
 - Event Loop উপযুক্ত সময়ে queue থেকে callback Call Stack-এ পাঠাতে সাহায্য করে।
+
+- Microtask Queue বনাম Task Queue
+
+- বিষয় --- Microtask Queue --- Task Queue
+  Priority --- সাধারণত বেশি --- Microtask-এর পরে
+  Examples --- Promise .then() --- setTimeout()
+  Execution --- Microtask Checkpoint-এ --- পরবর্তী Task হিসেবে
+  Common Use --- Promise Reactions --- Timer, Events

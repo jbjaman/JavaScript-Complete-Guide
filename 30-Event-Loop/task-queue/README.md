@@ -1,0 +1,2 @@
+- Callback Queue বা Task Queue কী?
+- Callback Queue হলো এমন একটি Queue যেখানে নির্দিষ্ট Asynchronous Operation সম্পন্ন হওয়ার পর তার Callback Execution-এর জন্য অপেক্ষা করে।
