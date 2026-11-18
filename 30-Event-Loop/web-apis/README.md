@@ -10,3 +10,7 @@
   localStorage ---- Browser Storage
 
 - setTimeout() বা fetch() JavaScript Language-এর Core Syntax নয়। এগুলো Runtime Environment-এর API।
+
+- Q4. Is setTimeout part of JavaScript?
+
+- No. setTimeout() is not part of the core JavaScript language. It is provided by the runtime environment, such as browsers or Node.js, and allows callbacks to be scheduled after a specified delay.
